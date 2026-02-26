@@ -1,2 +1,5 @@
 # training-data-stable-512
-Analytics data pipeline output
+
+**Data Pipeline Artifacts**
+
+This repository contains processed data and intermediate results from the analytics pipeline.
